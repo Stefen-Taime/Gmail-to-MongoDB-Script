@@ -1,8 +1,8 @@
-# Gmail to MongoDB Script
+# Gmail to MongoDB Atlas Script
 
 ## Description
 
-This script facilitates the automation of fetching emails from a user's Gmail account and storing them into a MongoDB database. The emails fetched are filtered by specific labels such as Promotions, Social, Updates, and Forums. The script is intended to run continuously, checking for new emails every minute.
+This script facilitates the automation of fetching emails from a user's Gmail account and storing them into a MongoDB Atlas Cloud database. The emails fetched are filtered by specific labels such as Promotions, Social, Updates, and Forums. The script is intended to run continuously, checking for new emails every minute.
 
 ## Dependencies
 
